@@ -17,8 +17,8 @@ def get_Local_ipv6_address():
         return None
 
 conf = {
-'account': 'jg3302202',
-'passwd': 'ljl2016',
+        'account': 'xxxxxxxx', #Your Account
+        'passwd': 'xxxxxxxx', #Your Password
 'url': 'http://202.193.80.124/drcom/login'
 }
 

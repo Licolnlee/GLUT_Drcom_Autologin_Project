@@ -158,8 +158,8 @@ def Login():
     # if not lazy_count():
         print(getCurrentTime(), 'Connecting to the Internet...')
         conf = {
-            'account': 'jg3302202',
-            'passwd': 'ljl2016',
+            'account': 'xxxxxxxx',  # Your Account
+            'passwd': 'xxxxxxxx',  # Your Password
             'url': 'http://202.193.80.124/drcom/login'
         }
 

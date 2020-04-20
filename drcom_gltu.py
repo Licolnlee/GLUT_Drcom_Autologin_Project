@@ -17,8 +17,8 @@ def get_Local_ipv6_address():
         return None
 
 conf = {
-'account': '校园网账号',
-'passwd': '校园网密码',
+        'account': 'xxxxxxxx', #Your Account
+        'passwd': 'xxxxxxxx', #Your Password
 'url': 'http://WEB认证地址'
 }
 
