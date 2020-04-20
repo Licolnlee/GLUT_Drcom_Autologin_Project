@@ -1,0 +1,9 @@
+#!/bin/sh /etc/rc.common 
+START=99 
+start(){ 
+nohup python3 -u /etc/drcom_glut2.py >/dev/null 2>&1 & 
+}
+START=99 
+start(){ 
+sh /etc/off_leds.sh
+}
